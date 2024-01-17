@@ -1,0 +1,51 @@
+body {
+  margin: 0px;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.bg-primary {
+  background-color: #9FC2CC;
+}
+
+.bg-secondary {
+  background-color: #F2B880;
+}
+
+.text-white {
+  color: white;
+}
+
+.flex {
+  display: flex;
+}
+
+.box-lg {
+  width: 300px;
+  height: 300px;
+}
+
+.box-sm {
+  width: 30px;
+  height: 30px;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.w-screen {
+  width: 100vw;
+}
+
+.navbar {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.navbar-links {
+  gap: 10px;
+}
